@@ -1,2 +1,13 @@
-# Image-Description-Generation-Using-Google-Gemini-Pro-Model
-Google Gemini Pro Vision model is explored in this project to create an application that generates information based on the image (and text) provided in the input.
+## Important:
+
+It is better to have Python version 3.9.0 or greater to be installed to create this application. 
+
+Before running the application, you must run the following commands to install relevant libraries and versions:
+
+### !pip install streamlit
+### !pip install google-generativeai
+### !pip install python-dotenv
+### !pip install protobuf==3.20.*
+
+
+For Application: 
