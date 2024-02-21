@@ -14,7 +14,7 @@ from PIL import Image
 # In[2]:
 
 
-os.environ['GOOGLE_API_KEY'] = "AIzaSyB556fk0VZ5MlGZDaz_uWG_wpmghTEj_DM"
+os.environ['GOOGLE_API_KEY'] = "Enter your API key"
 genai.configure(api_key=os.environ['GOOGLE_API_KEY'])
 
 
