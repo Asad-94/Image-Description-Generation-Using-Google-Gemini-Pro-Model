@@ -4,10 +4,10 @@ Remember to have Python version greater than 3.9 installed in the system to crea
 
 First you must run the following commands to install relevant libraries and versions:
 
-##### !pip install streamlit
-##### !pip install google-generativeai
-##### !pip install python-dotenv
-##### !pip install protobuf==3.20.*
+1) !pip install streamlit
+2) !pip install google-generativeai
+3) !pip install python-dotenv
+4) !pip install protobuf==3.20.*
 
 #
 #
