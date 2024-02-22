@@ -1,6 +1,6 @@
 ### Important:
 
-It is better to have Python version 3.9.0 or greater to be installed to create this application. 
+Remember to have Python version greater than 3.9 installed in the system to create this application. 
 
 First you must run the following commands to install relevant libraries and versions:
 
